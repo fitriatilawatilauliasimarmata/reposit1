@@ -1,0 +1,20 @@
+{
+    "name": "atikah-nisa/uts",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "7.4.20"
+   
+    },
+    "authors": [
+        {
+            "name": "atikahkhoirunnisa",
+            "email": "atikahkhoirunnisa21@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
